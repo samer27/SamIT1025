@@ -1,1 +1,1 @@
-# SamIT1025
+# Sam Shalodi IT1025 IT1025 is the first step in a student finding their path within IT.  Next, I plan to complete the Cybersecurity certificate program and see what opportunities may present themselves.  
