@@ -4,3 +4,8 @@ Executive Summary:  In Lab 2, we reviewed the hardware components of a computer.
 
 ## Hardware
 
+Hard Drives and Memory
+
+a) The performance of a hard disk is vital to the overall speed of the system.  Conversely, a slow hard disk has the potential to delay a fast processor like no other system component.  Several factors determine the effective speed of a hard disk.  Foremost among them is the rotational speed of the platters.  Disk RPM is a critical component of a hard disk performance because it directly impacts the latency and the disk transfer rate.  The faster the disk spins, the more data passes under the magnetic heads that read the data; the slower the RPM, the higher the mechanical latencies.  Latency is the average time for the sector being accessed to rotate into position under a head after a completed seek.
+
+b) 
