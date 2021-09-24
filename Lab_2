@@ -25,4 +25,33 @@ CPU - Each computer does the same four things: Input, Store, Process, Output.  T
 
 Input - Input converts physical input to binary information- the memory stores the data.  There's a central processing unit, or CPU, where all the calculations are done.  Lastly, there are output devices that take information and convert it into physical output.  Inputs include the keyboard of a computer, the touchpad of a phone, a camera, a microphone, or a GPS.  Also, the sensors on a car, a thermostat, or a drone are different input devices.
 
-Output - There are many different types of output.
+Output - There are many different types of output.  Output takes a binary signal from the computer and does something in the physical world.  For example, a speaker will play a sound, and a 3-D printer will print an object.  Output devices can also control physical motion like a robotic arm, the motor of car, or the cutting tool of he milling machine.
+
+# Logic Gates and Circuits
+
+A truth table is a table that displays the logical operations on input signals in a table format.  For example, every Boolean expression can be viewed as a truth table.  The truth table identifies all possible input combinations and the output for each.
+The NAND gate truth table compares to that of an AND GATE by being the logical inverse of the OR gate.  
+
+
+
+Truth Table 
+Input A	Input B	Output Q 
+0	        0	       1 
+0	        1	       1 
+1	        0	       1 
+1	        1	       0 
+
+#IEEE - Ethically Aligned Design
+
+The purpose of IEEE is that that it's an organization dedicated to advancing innovation and technological excellence for the benefit of humanity, is the world's largest technical professional society.  IEEE stands for the Institute of Electrical and Electronics Engineers.  IEEE's roots go back to 1884 when electricity began to become a significant influence in society.  There was one primary established electrical industry, the telegraph, which since the 1840s had come to connect the world with a data communications system faster than the speed of transportation.  In addition, the telephone and electric power, and light industries had just gotten underway.  IEEE is designed to serve professionals involved in all aspects of the electrical, elecronic, and computing fields and related areas of science and technology that underlie modern civilization.
+
+The importance of ethics is device design is that all team members must be on board with the final outcome and its intended uses.
+
+#Data Representation
+
+
+#Data Rpresentation: Hexadecimal Color Representation
+
+1. The representation of #ab00ff in a Red, Green, Blue color space, hex #ab00ff is made up of 67.1% red, 0% green, and 100% blue.  In contrast, in a Cyan, Magenta, Yellow, Black color space, it comprises 32.9% cyan, 100% magenta, 0% yellow, and 0% black.  Its decimal value is 11206911.
+
+2. When considering accessibility in websites, this color would be problematic.
