@@ -60,11 +60,11 @@ An important factor of ethics in device design, is that all team members must be
    Hexadecimal numbers represent any number using ten digits and six characters (0-9, A, B, C, D, E, F).
    
 2. Decimal #211 to Binary = #11010011 in Binary.
-![SShalodi_BinaryConversion](https://user-images.githubusercontent.com/90066230/134784468-4dad1b32-3fe9-4042-bc8a-8b3f1439df50.jpg)
-
+![SShalodi_DecimalConversion](https://user-images.githubusercontent.com/90066230/134817890-3a945117-cd03-4814-9d0f-f31114462491.jpg)
 
 3. Binary #10110101 to Decimal = #181 in Decimal.
-![SShalodi_DecimalConversion](https://user-images.githubusercontent.com/90066230/134784476-966898e1-c46c-4a8f-b6ec-a82407a10bef.jpg)
+![SShalodi_BinaryConversion](https://user-images.githubusercontent.com/90066230/134817936-d09054c1-567c-4f77-b4a3-b66b7dd4c32f.jpg)
+
 
 # Data Representation: Hexadecimal Color Representation
 
