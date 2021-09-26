@@ -79,4 +79,4 @@ An essential factor of ethics in device design is that all team members must be 
 
 # Conclusion
 
-Lab 2 in IT1025 provided me with a profound understanding of Information Systems within the hardware.  I learned that Information Systems within hardware is made up of many different system components.  These components are what give a computer its capabilities.  Adding or removing specific parts will determine the latency speed of the computer.  I also developed a better understanding of maneuvering throughout GitHub by creating documents on the website. 
+Lab 2 in IT1025 provided me with a profound understanding of Information Systems within the hardware.  I learned that Information Systems within hardware is made up of many different system components.  These components are what give a computer its capabilities.  Adding or removing specific parts will determine the latency speed of the computer.  I also developed a better understanding of maneuvering throughout GitHub by creating repositories on the website. 
