@@ -15,6 +15,9 @@ i. Increasing RAM will make the computer run faster because the data or a progra
 ii. The difference between 64 and 32 bit paths are as follows:
 A 64-bit processor can handle more data at once.  A 64-bit processor is capable of storing more computational values, including memory addresses.  This translates to access to over 4 billion times the physical memory of a 32-bit processor.  32-bit processors are seamlessly proficient in handling a limited amount of RAM (in Windows, 4GB or less).  A 64-bit processor can utilize much more RAM.  Most software is backward compatible.  This means that the user can run applications that are 32-bit in a 64-bit environment witout any extra work or issues.  A 64-bit has a more considerable bus value within a binary value.  A bus value is a tangible lane of a chip within a computer.  You are physically able to see more circuits on a 64-bit versus a 32-bit processor.
 
+![image](https://user-images.githubusercontent.com/90066230/134818020-5e791dd5-3dbb-4bd4-aa60-f8eb23a8f8cf.png)
+
+
 # ALU and the Control Unit
 
 2. An arithmetic logic unit (ALU) is a digital circuit used to perform arithetic and logic operations.  It represents the fundamental building block of the central processing unit (CPU) of a computer.  Modern CPUs contain very powerful and complex ALUs.  ALUs are the mathematical brains of the computer.  In addition to ALUs, modern CPUs have a control unit (CU).
@@ -35,12 +38,14 @@ The NAND gate truth table compares to that of an AND gate by being the logical i
 
 ![image](https://user-images.githubusercontent.com/90066230/134783914-2c31e683-177d-416e-adaa-b9baa71974a9.png)
 
-Truth Table 
-Input A	Input B	Output Q 
-0	0	1 
-0	1	1 
-1	0	1 
-1	1	0 
+Truth Table
+
+Input A|Input B|Output Q 
+-------|-------|--------
+0|0|1
+0|1|1
+1|0|1
+1|1|0
 
 
 # IEEE - Ethically Aligned Design
