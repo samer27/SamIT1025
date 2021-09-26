@@ -71,3 +71,7 @@ An important factor of ethics in device design, is that all team members must be
 1. The representation of #ab00ff in a Red, Green, Blue color space, hex #ab00ff is made up of 67.1% red, 0% green, and 100% blue.  In contrast, in a Cyan, Magenta, Yellow, Black color space, it comprises 32.9% cyan, 100% magenta, 0% yellow, and 0% black.  Its decimal value is 11206911.
 
 2. When considering accessibility in websites, this color would not be problematic.  With proper contrast, such as with a grey background, this text is accessible.  What would not be accessible would-be black text with a grey background.  Other colors include ff0000, 00ff00, and 0000ff.  These codes represent red, green, and blue.
+
+# Conclusion
+
+Lab 2 in IT1025 provided me with a profound understanding of Information Systems within the hardware.  I learned that Information Systems within hardware are made up of many different system components.  These components are what gives a computer its capabilites.  Adding or removing specific parts will determine the latency speed of the computer.  I also developed a better understanding of maneuvering throughout GitHub by creating documents on the website. 
