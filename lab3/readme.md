@@ -28,3 +28,23 @@ It differs from cloud computing because a thin layer of software called a "hyper
 
 # Virtualization
 
+1.
+
+2. The role of hypervisor plays in virtualization, also known as a virtual machine monitor or VMM, is software that creates and runs virtual machines (VMs).  A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing.  As a result, hypervisor make it possible to use more of a sytem's available resources and provide greater IT mobility since the guest VMs are independent of the host hardware.  In other words, this means VMs can easily be moved between servers.  In addition, because multiple virtual machines can run off of one physical server with a hypervisor, a hypervisor reduces space, energy, and maintenance requirements.
+
+# Python
+
+1. What is meant by the "pseudo-code nature of Python" is it is a plain language description of the steps in an algorithm or another system.  Or, pseudo-code consists of short English phrases used to explain specifc tasks within a program.  Ideally, pseudo-code should not not include keywords within any particular computer language.  Instead, psuedo-code ought to be written as a list of consecutive phrases.  We can even draw arrows to show looping processes.  Indentation can be used to show the logical program flow in pseudo-code also.
+
+Writing pseudo-code saves time later during the coding and testing stages of a program's development and helps communication between designer, coder, and project managers.  For example, some projects may use pseudo-code for design, others may use flow charts, and some a combination of both.  
+
+2. An interpreted language is a programming language that is geneerally interpreted without compiling a program into machine instructions.  It is one where the target machine does not directly execute the instructions but instead reads and is executed by some other program - interupted language ranges - JavaScript, Perl, Python, BASIC, etc.
+![image](https://user-images.githubusercontent.com/90066230/135626950-c89df0e5-10b5-4e8d-9a26-dbbee78c9bff.png)
+
+A compiled language is a programming language that is generally compiled and not interpreted.  It is one where the program, once collected, is expressed in the instructions of the target machine; this machine code is undecipherable by humans - types of compiled language - C, C++, C#, CLEO, COBOL, etc.
+![image](https://user-images.githubusercontent.com/90066230/135627532-4a579be5-2732-4d08-b662-1ae552a31893.png)
+
+Python1:
+![Python1](https://user-images.githubusercontent.com/90066230/135627816-75b5d00b-9d02-44d8-942f-6ca81d12ce19.png)
+Python2:
+![Python2](https://user-images.githubusercontent.com/90066230/135627877-4a84bfaf-702d-40cb-bcae-890bf05c4b31.png)
