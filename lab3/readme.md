@@ -57,4 +57,14 @@ Python2:
 
 2. The findings from College Central
 
+4. Bureau of Labor Statistics
 
+# Certificates
+
+I am interested in the Tri-C IT Cybersecurity program because all of my free time is primarily spent on the computer and assisting others with computer-related issues, such as networking and technical problems.  Because it allows me to develop a passion into a practical skill, analyze data, and perhaps most important to me, help consumers and corporations protect data and privacy in an increasingly wired way world.
+
+# Co-ops / Internships
+
+2. For a student to be co-op "ready," eligibility requirements include being currently enrolled at Tri-C, completed 12 credit hours of college coursework (includes transfer credits) with at least two courses related to your major field, and a GPA of 2.75 of higher.  In addition, student expectations include completing the Application of Interest, participating in the co-op orientation process through the Career Center, uploading your resume for final revisions and approval by a career coach at Handshake, and completing and signing a "Cooperative Education Agreement" form.
+
+The benefits of pursuing a co-op or internship give students an edge by providing them with hands-on learning experience through job assignments related to their field. Not only is a job assignment vital to a student's marketability, but it allows you to use what is learned in the classroom.  In addition, the real-world experience provides insight into career paths and job opportunities.  In addition to being compensated, as in a regular work assignment, the student can earn one college credit for every 180 hours worked, up to three credits per semester.    
