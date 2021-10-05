@@ -30,7 +30,13 @@ It differs from cloud computing because a thin layer of software called a "hyper
 
 1. The problems solved with virtualization include reduced complexities (both management and security-based), less overhead cost, and a more flexible IT environment.  In addition, virtualization supports addressing the most pressing technology challenge: the infrastructure collapse forcing IT departments to channel 70 percent of their budget into maintenance.  Also, it's draining resources for business-building innovation.  The challenge originates from the architecture of today's x86 computers: x86 computers are designed to run just one operating system or application at a time.  That means that even small data centers have to deploy many servers operating at just 12 percent capacity.  That's highly inefficient by any standard.  Virtualization software solves the problem by enabling multiple operating systems and applications to run on one physical server or "host."  
 
+![image](https://user-images.githubusercontent.com/90066230/136029493-039a5e5a-374e-4a59-a507-5afa3848d72d.png)
+
+
 2. The role of hypervisor plays in virtualization, also known as a virtual machine monitor or VMM, is software that creates and runs virtual machines (VMs).  A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing.  As a result, hypervisor make it possible to use more of a sytem's available resources and provide greater IT mobility since the guest VMs are independent of the host hardware.  In other words, this means VMs can easily be moved between servers.  In addition, because multiple virtual machines can run off of one physical server with a hypervisor, a hypervisor reduces space, energy, and maintenance requirements.
+
+![image](https://user-images.githubusercontent.com/90066230/136030579-32aa98b5-9d75-40f7-939b-6a4e67d6b99e.png)
+
 
 # Python
 
