@@ -1,6 +1,6 @@
 # Executive Summary
 
-In Lab 3, we reviewed software types, practice working with virtualization and Python.  We also explored careers in information technology, and co-ops, internships, certificates, certifications, industry association, and student organization memberships.
+In Lab 3, we reviewed software types, practice working with virtualization and Python.  We also explored careers in information technology, and co-ops, internships, certificates, certifications, industry association, and student organization memberships.  I found that virtualization software benefits all IT departments by allowing access to virtual machines.  In addition, virtual machines enables multiple operating systems and applications to run on one physical server of "host."  I hope to utilize the resources made available to me through the college in the future.   
 
 # Software
 
@@ -78,3 +78,5 @@ I am interested in the Tri-C IT Cybersecurity program because all of my free tim
 The benefits of pursuing a co-op or internship give students an edge by providing them with hands-on learning experience through job assignments related to their field. Not only is a job assignment vital to a student's marketability, but it allows you to use what is learned in the classroom.  In addition, the real-world experience provides insight into career paths and job opportunities.  In addition to being compensated, as in a regular work assignment, the student can earn one college credit for every 180 hours worked, up to three credits per semester.    
 
 # Conclusion
+
+In Lab3, we went over software types, practice working with virtualization and Python.  We also discovered careers in information technology and co-ops, internships, certificates, certifications, industry association, and student organization memberships.  Moving forward, I plan to apply virtualization software on my computer to give it more effitiveness and efficiency. 
