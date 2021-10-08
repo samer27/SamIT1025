@@ -37,6 +37,9 @@ It differs from cloud computing because a thin layer of software called a "hyper
 
 ![image](https://user-images.githubusercontent.com/90066230/136030579-32aa98b5-9d75-40f7-939b-6a4e67d6b99e.png)
 
+Option A
+
+![VirtualMachineOptionA](https://user-images.githubusercontent.com/90066230/136632319-85269f19-8b56-451e-91c0-9ce824656ae7.png)
 
 # Python
 
