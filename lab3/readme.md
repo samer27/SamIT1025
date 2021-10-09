@@ -19,16 +19,15 @@ It utilizes a central database.  Therefore, all users of the ERP edit and save t
 It is implemented organization wide.  ERP systems include functionality that covers all of the essential components of a business.  An organization can purchase modules for its ERP system that match specific needs such as order entry, manufacturing, or planning.
 
 2. The purpose of virtualization is that due to the limitations on x86 servers, many IT organizations must deploy multiple servers, each operating at a fraction of their capacity, to keep pace with today's high storage and processing demands.  The result: massive ineffciencies and high operating costs.
-
-Enter virtualization.  Virtualization relies on software to simulate hardware functionality and create a virtual computer system.  This vitual computer system enables IT organizations to run more than one virtual system - and multiple operating systems and applications - on a single server.  The resulting benefits include economies of scale and greater efficiency.  
-
-A virtual computer system is a "virtual machine" (VM): a tightly isolated software container with an operating system and applications inside.  Each self-contained VM is completely independent.  Putting multiple VMs on a single computer enables several operating systems and applications to run on just one physical server or "host."
+Enter virtualization.  Virtualization relies on software to simulate hardware functionality and create a virtual computer system.  This vitual computer system enables IT organizations to run more than one virtual system - and multiple operating systems and applications - on a single server.  The resulting benefits include economies of scale and greater efficiency.  A virtual computer system is a "virtual machine" (VM): a tightly isolated software container with an operating system and applications inside.  Each self-contained VM is completely independent.  Putting multiple VMs on a single computer enables several operating systems and applications to run on just one physical server or "host."
 
 It differs from cloud computing because a thin layer of software called a "hypervisor" decouples the virtual machines from the host.  It dynamically allocates computing resources to each virtual machine as needed.
 
 # Virtualization
 
-1. The problems solved with virtualization include reduced complexities (both management and security-based), less overhead cost, and a more flexible IT environment.  In addition, virtualization supports addressing the most pressing technology challenge: the infrastructure collapse forcing IT departments to channel 70 percent of their budget into maintenance.  Also, it's draining resources for business-building innovation.  The challenge originates from the architecture of today's x86 computers: x86 computers are designed to run just one operating system or application at a time.  That means that even small data centers have to deploy many servers operating at just 12 percent capacity.  That's highly inefficient by any standard.  Virtualization software solves the problem by enabling multiple operating systems and applications to run on one physical server or "host."  
+1. The problems solved with virtualization include reduced complexities (both management and security-based), less overhead cost, and a more flexible IT environment.  In addition, virtualization supports addressing the most pressing technology challenge: the infrastructure collapse forcing IT departments to channel 70 percent of their budget into maintenance.  Also, it's draining resources for business-building innovation.  The challenge originates from the architecture of today's x86 computers.  x86 computers are designed to run just one operating system or application at a time.  That means that even small data centers have to deploy many servers operating at just 12 percent capacity.  That's highly inefficient by any standard.  Virtualization software solves the problem by enabling multiple operating systems and applications to run on one physical server or "host." 
+
+Virtualization is a technology that allows you to create multiple simiulated environments or dedicated resources from a single, physical hardware system.  Clouds are IT environments that abstract, pool, and share scalable resources across the network.  Or, more simply, virtualization is a technology where the cloud is a seperate environment.
 
 ![image](https://user-images.githubusercontent.com/90066230/136029493-039a5e5a-374e-4a59-a507-5afa3848d72d.png)
 
@@ -43,7 +42,7 @@ Option A
 
 # Python
 
-1. What is meant by the "pseudo-code nature of Python" is it is a plain language description of the steps in an algorithm or another system.  Or, pseudo-code consists of short English phrases used to explain specifc tasks within a program.  Ideally, pseudo-code should not not include keywords within any particular computer language.  Instead, psuedo-code ought to be written as a list of consecutive phrases.  We can even draw arrows to show looping processes.  Indentation can be used to show the logical program flow in pseudo-code also.
+1. The "pseudo-code nature of Python" is it is a plain language description of the steps in an algorithm or another system.  Or, pseudo-code consists of short English phrases used to explain specifc tasks within a program.  Ideally, pseudo-code should not not include keywords within any particular computer language.  Instead, psuedo-code ought to be written as a list of consecutive phrases.  We can even draw arrows to show looping processes.  Indentation can be used to show the logical program flow in pseudo-code also.
 
 Writing pseudo-code saves time later during the coding and testing stages of a program's development and helps communication between designer, coder, and project managers.  For example, some projects may use pseudo-code for design, others may use flow charts, and some a combination of both.  
 
@@ -82,4 +81,4 @@ The benefits of pursuing a co-op or internship give students an edge by providin
 
 # Conclusion
 
-In Lab3, we went over software types, practice working with virtualization and Python.  We also discovered careers in information technology and co-ops, internships, certificates, certifications, industry association, and student organization memberships.  Moving forward, I plan to apply virtualization software on my computer to give it more effitiveness and efficiency. 
+In Lab3, we went over software types and practiced working with virtualization and Python.  We also discovered careers in information technology and co-ops, internships, certificates, certifications, industry association, and student organization memberships.  Moving forward, I plan to apply virtualization software on my computer to give it more effitiveness and efficiency. 
