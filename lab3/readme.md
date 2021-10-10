@@ -32,7 +32,7 @@ Virtualization is a technology that allows you to create multiple simulated envi
 ![image](https://user-images.githubusercontent.com/90066230/136029493-039a5e5a-374e-4a59-a507-5afa3848d72d.png)
 
 
-2. The role of hypervisor plays in virtualization, also known as a virtual machine monitor or VMM, is software that creates and runs virtual machines (VMs).  A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing.  As a result, hypervisor make it possible to use more of a sytem's available resources and provide greater IT mobility since the guest VMs are independent of the host hardware.  In other words, this means VMs can easily be moved between servers.  In addition, because multiple virtual machines can run off of one physical server with a hypervisor, a hypervisor reduces space, energy, and maintenance requirements.
+2. The role of hypervisor plays in virtualization, also known as a virtual machine monitor or VMM, is software that creates and runs virtual machines (VMs).  A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing.  As a result, hypervisor makes it possible to use more of a system's available resources and provide greater IT mobility since the guest VMs are independent of the host hardware.  In other words, this means VMs can easily be moved between servers.  In addition, because multiple virtual machines can run off of one physical server with a hypervisor, a hypervisor reduces space, energy, and maintenance requirements.
 
 ![image](https://user-images.githubusercontent.com/90066230/136030579-32aa98b5-9d75-40f7-939b-6a4e67d6b99e.png)
 
