@@ -27,7 +27,7 @@ It differs from cloud computing because a thin layer of software called a "hyper
 
 1. The problems solved with virtualization include reduced complexities (both management and security-based), less overhead cost, and a more flexible IT environment.  In addition, virtualization supports addressing the most pressing technology challenge: the infrastructure collapse forcing IT departments to channel 70 percent of their budget into maintenance.  Also, it's draining resources for business-building innovation.  The challenge originates from the architecture of today's x86 computers.  x86 computers are designed to run just one operating system or application at a time.  That means that even small data centers have to deploy many servers operating at just 12 percent capacity.  That's highly inefficient by any standard.  Virtualization software solves the problem by enabling multiple operating systems and applications to run on one physical server or "host." 
 
-Virtualization is a technology that allows you to create multiple simulated environments or dedicated resources from a single, physical hardware system.  Clouds are IT environments that abstract, pool, and share scalable resources across the network.  Or, more simply, virtualization is a technology where the cloud is a separate environment.
+Virtualization is a technology that allows you to create multiple simulated environments or dedicated resources from a single, physical hardware system.  Clouds are IT environments that abstract, pool, and share scalable resources across the network.  Or, more simply, virtualization is a technology where the cloud is a unique environment.
 
 ![image](https://user-images.githubusercontent.com/90066230/136029493-039a5e5a-374e-4a59-a507-5afa3848d72d.png)
 
