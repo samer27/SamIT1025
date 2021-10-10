@@ -1,6 +1,6 @@
 # Executive Summary
 
-In Lab 3, we reviewed software types, practice working with virtualization and Python.  We also explored careers in information technology, and co-ops, internships, certificates, certifications, industry association, and student organization memberships.  I found that virtualization software benefits all IT departments by allowing access to virtual machines.  In addition, virtual machines enables multiple operating systems and applications to run on one physical server of "host."  I hope to utilize the resources made available to me through the college in the future.   
+In Lab 3, we reviewed software types, practice working with virtualization and Python.  We also explored careers in information technology and co-ops, internships, certificates, certifications, industry association, and student organization memberships.  I found that virtualization software benefits all IT departments by allowing access to virtual machines.  In addition, virtual machines enable multiple operating systems and applications to run on one physical server or "host."  I hope to utilize the resources made available to me through the college in the future.   
 
 # Software
 
