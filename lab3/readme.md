@@ -42,14 +42,16 @@ Option A
 
 # Python
 
-1. The "pseudo-code nature of Python" is it is a plain language description of the steps in an algorithm or another system.  Or, pseudo-code consists of short English phrases used to explain specifc tasks within a program.  Ideally, pseudo-code should not not include keywords within any particular computer language.  Instead, psuedo-code ought to be written as a list of consecutive phrases.  We can even draw arrows to show looping processes.  Indentation can be used to show the logical program flow in pseudo-code also.
+1. The "pseudo-code nature of Python" is a plain language description of the steps in an algorithm or another system.  Or, pseudo-code consists of short English phrases used to explain specific tasks within a program.  Ideally, pseudo-code should not include keywords within any particular computer language.  Instead, pseudo-code ought to be written as a list of consecutive phrases.  We can even draw arrows to show looping processes.  Indentation can be used to show the logical program flow in pseudo-code also.
 
 Writing pseudo-code saves time later during the coding and testing stages of a program's development and helps communication between designer, coder, and project managers.  For example, some projects may use pseudo-code for design, others may use flow charts, and some a combination of both.  
 
-2. An interpreted language is a programming language that is geneerally interpreted without compiling a program into machine instructions.  It is one where the target machine does not directly execute the instructions but instead reads and is executed by some other program - interupted language ranges - JavaScript, Perl, Python, BASIC, etc.
+2. An interpreted language is a programming language that is generally interpreted without compiling a program into machine instructions.  It is one where the target machine does not directly execute the instructions but instead reads and is executed by some other program - interpreted language ranges - JavaScript, Perl, Python, BASIC, etc.
+
 ![image](https://user-images.githubusercontent.com/90066230/135626950-c89df0e5-10b5-4e8d-9a26-dbbee78c9bff.png)
 
 A compiled language is a programming language that is generally compiled and not interpreted.  It is one where the program, once collected, is expressed in the instructions of the target machine; this machine code is undecipherable by humans - types of compiled language - C, C++, C#, CLEO, COBOL, etc.
+
 ![image](https://user-images.githubusercontent.com/90066230/135627532-4a579be5-2732-4d08-b662-1ae552a31893.png)
 
 Python1:
