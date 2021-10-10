@@ -73,7 +73,7 @@ I'm familiar with the Bureau of Labor Statistics website because it's featured o
 
 # Certificates
 
-I am interested in the Tri-C IT Cybersecurity program because my free time is primarily spent on the computer and assisting others with computer-related issues, such as networking and technical problems.  Because it allows me to develop a passion into a practical skill, analyze data, and perhaps most important to me, help consumers and corporations protect data and privacy in an increasingly wired way world.
+I am interested in the Tri-C IT Cybersecurity program because my free time is primarily spent on the computer and assisting others with computer-related issues, such as networking and technical problems.  Because it allows me to develop a passion into a practical skill, analyze data, and perhaps most important to me, help consumers and corporations protect data and privacy in an increasingly wired world.
 
 # Co-ops / Internships
 
