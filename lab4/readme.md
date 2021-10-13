@@ -41,8 +41,36 @@ iv. Data types are the classification or categorization of data items.  It repre
 
 # Graphics
 
-a.
+a. There's a reason small images lose quality when you enlarge them.  In other words, making an image bigger than its orginal size will cause a noticeable loss of quality.  It's because they're made up of thousands - sometimes even millions - of tiny little pixels.  The word for this type of image is raster.
 
-b.
+![image](https://user-images.githubusercontent.com/90066230/137124954-d6f7a4fe-ce9b-4ead-93d5-dcfbfe5d51b3.png)
+
+When you view a raster image at its original size or smaller, the pixels are invisible.  This is because these pixels are just too small to see.  They only become visible when you zoom in or make the image larger.  If an image needed to be cropped, then using a raster image would be appropriate.
+
+In contrast, vector graphics can make an image any size, big or small, without lossing quality.  The image has been enlarged in the example below, but there's no pixelation - not even a little bit.
+
+![image](https://user-images.githubusercontent.com/90066230/137125831-84b2f370-b2aa-42e5-b4d7-8cdbacba2217.png)
+
+This image quality is due to vectors being made of something more complex than pixels.  They're condensed using a unique form of geometry.  As a result, you're not likely to find vector graphics outside of professional design settings.  However, if you were resizing an image, then using a vector graphic would fit here.
+
+b. It matters to developers whether they use lossless or lossy image formats.  If you don't understand which type of compression to use for different kinds of images, you'll likely end up with one of two results.  One, a picture that doesn't look as good as possible, and second, an image file size that is way larger than it needs to be.
+
+Computer users think that they should only use image formats that use lossless compressions.  While lossless compression is superior for many kinds of images, it's not necessary for many others.  Lossless image compression means all the data from the original file is preservered.  On the other hand, Lossy compression removes some data from the original file and saves the image with reduced file size.  It's up to you, as the developer, to say how much data to disregard by setting the image compression rate.
 
 c.
+
+![image](https://user-images.githubusercontent.com/90066230/137127200-dc9c88ee-3cd6-44bf-9d34-767bd3ba2799.png)
+
+![image](https://user-images.githubusercontent.com/90066230/137127231-11d30cb2-03c3-4172-94c5-e9d407a078b4.png)
+
+5. SVGGraphic
+
+# File Properties
+
+i.
+
+ii.
+
+Conclusion
+
+
