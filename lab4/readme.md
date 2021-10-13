@@ -65,6 +65,7 @@ c. File Formats
 
 5. SVGGraphic
 
+![SVGGraphic](https://user-images.githubusercontent.com/90066230/137131789-9d12f00b-639d-4c4b-b59e-0c5df964d019.png)
 
 
 # File Properties
