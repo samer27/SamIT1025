@@ -1,5 +1,7 @@
 # Executive Summary
 
+Working in Lab 4, we examined operating systems and practiced working at the command line of my Windows operating system.  In addition, we explored additional software, including an interactive coding environment, graphics, and diagrams.  For example, I learned that different file sizes require different file types and knowing when to use raster versus vector graphics.
+
 b. CMDOutput
 ![CMDOutput](https://user-images.githubusercontent.com/90066230/136790330-1ec41602-5704-434b-9a3a-8e4da28318a6.png)
 
@@ -11,7 +13,7 @@ j. DirectoryStructureFileExplorer
 
 # Python IDLE
 
-d. *** The difference between the shell and file editor in the IDLE are 
+d. Python Shell is a command-line tool that starts up the Python interpreter.  Thus, you can test simple programs and also write some short programs.  However, to write a more complex Python program, you need an editor.  On the other hand, IDLE has combined the above two needs and bundled them as a package.  IDLE consists of the Python Shell and Text editor that supports highlights for Python grammar, etc. 
 
 # Code Examples
 
@@ -70,10 +72,10 @@ c. File Formats
 
 # File Properties
 
-i.
+i. My image design was the Microsoft logo.  The image design included four "layers" that incorporated the four square color schemes of red, green, blue, and orange.    
 
 ii.
 
 # Conclusion
 
-
+In Lab 4, we reviewed operating systems and practiced working at the command line of my Windows opeating system.  In addition, explored supplementary software, including an interactive programming environment, graphics, and diagrams.  From this lab, I'll take away how to create various design logos within the Vectr environment.
