@@ -1,4 +1,4 @@
-*** Executive Summary
+# Executive Summary
 
 b. CMDOutput
 ![CMDOutput](https://user-images.githubusercontent.com/90066230/136790330-1ec41602-5704-434b-9a3a-8e4da28318a6.png)
@@ -57,7 +57,7 @@ b. It matters to developers whether they use lossless or lossy image formats.  I
 
 Computer users think that they should only use image formats that use lossless compressions.  While lossless compression is superior for many kinds of images, it's not necessary for many others.  Lossless image compression means all the data from the original file is preservered.  On the other hand, Lossy compression removes some data from the original file and saves the image with reduced file size.  It's up to you, as the developer, to say how much data to disregard by setting the image compression rate.
 
-c.
+c. File Formats
 
 ![image](https://user-images.githubusercontent.com/90066230/137127200-dc9c88ee-3cd6-44bf-9d34-767bd3ba2799.png)
 
@@ -65,12 +65,14 @@ c.
 
 5. SVGGraphic
 
+
+
 # File Properties
 
 i.
 
 ii.
 
-Conclusion
+# Conclusion
 
 
