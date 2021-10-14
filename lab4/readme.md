@@ -74,7 +74,9 @@ c. File Formats
 
 i. My image design was the Microsoft logo.  The image design included four "layers" that incorporated the four square color schemes of red, green, blue, and orange.    
 
-ii.
+ii. After viewing the "properties" portion on my svd file, I noticed the file size was 9.60KB.  I also noticed that the file type was an svg, the same type of file as the design environment as Vectr, the program that I created my logo.  Because GitHub does not accept the svg file type, I was forced to change the file type from an svg to a png.  A png (Portable Network Graphics) file is a raster or bitmap image file format.  A raster image comprises a fixed number of pixels (or building blocks) that form a complete picture.  Therefore, the image cannot be enlarged without distortion occurring (When you zoom in on a raster image, the pixels become visibly grainy.)  Standard raster images include png, jpg, and gif formats.
+
+Meanwhile, an svg (Scalable Vector Graphics) file is a vector image file format.  A vector image uses geometric forms such as points, lines, curves, and shapes (polygons) to represent differnt image parts as discreate objects.  These forms can be individuallly editied.  As a result, a vector image remains crisp and clear at any resolution or size. 
 
 # Conclusion
 
