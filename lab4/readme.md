@@ -43,7 +43,7 @@ iv. Data types are the classification or categorization of data items.  It repre
 
 # Graphics
 
-a. There's a reason small images lose quality when you enlarge them.  In other words, making an image bigger than its orginal size will cause a noticeable loss of quality.  It's because they're made up of thousands - sometimes even millions - of tiny little pixels.  The word for this type of image is raster.
+a. There's a reason small images lose quality when you enlarge them.  In other words, making an image bigger than its original size will cause a noticeable loss of quality.  It's because they're made up of thousands - sometimes even millions - of tiny little pixels.  The word for this type of image is raster.
 
 ![image](https://user-images.githubusercontent.com/90066230/137124954-d6f7a4fe-ce9b-4ead-93d5-dcfbfe5d51b3.png)
 
