@@ -49,7 +49,7 @@ a. There's a reason small images lose quality when you enlarge them.  In other w
 
 When you view a raster image at its original size or smaller, the pixels are invisible.  This is because these pixels are just too small to see.  They only become visible when you zoom in or make the image larger.  If an image needed to be cropped, then using a raster image would be appropriate.
 
-In contrast, vector graphics can make an image any size, big or small, without lossing quality.  The image has been enlarged in the example below, but there's no pixelation - not even a little bit.
+In contrast, vector graphics can make an image any size, big or small, without losing quality.  The image has been enlarged in the example below, but there's no pixelation - not even a little bit.
 
 ![image](https://user-images.githubusercontent.com/90066230/137125831-84b2f370-b2aa-42e5-b4d7-8cdbacba2217.png)
 
