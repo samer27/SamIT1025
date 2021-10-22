@@ -55,9 +55,9 @@ In contrast, vector graphics can make an image any size, big or small, without l
 
 This image quality is due to vectors being made of something more complex than pixels.  They're condensed using a unique form of geometry.  As a result, you're not likely to find vector graphics outside of professional design settings.  However, if you were resizing an image, then using a vector graphic would fit here.
 
-b. It matters to developers whether they use lossless or lossy image formats.  If you don't understand which type of compression to use for different kinds of images, you'll likely end up with one of two results.  One, a picture that doesn't look as good as possible, and second, an image file size that is way larger than it needs to be.
+b. It matters to developers whether they use lossless or lossy image formats.  If you don't understand which type of compression to use for different kinds of images, you'll likely end up with one of two results.  One is a picture that doesn't look as good as possible, and the second, an image file size that is way larger than it needs to be.
 
-Computer users think that they should only use image formats that use lossless compressions.  While lossless compression is superior for many kinds of images, it's not necessary for many others.  Lossless image compression means all the data from the original file is preservered.  On the other hand, Lossy compression removes some data from the original file and saves the image with reduced file size.  It's up to you, as the developer, to say how much data to disregard by setting the image compression rate.
+Computer users think that they should only use image formats that use lossless compressions.  While lossless compression is superior for many kinds of images, it's not necessary for many others.  Lossless image compression means all the data from the original file is preserved.  On the other hand, Lossy compression removes some data from the original file and saves the image with reduced file size.  It's up to you, as the developer, to say how much data to disregard by setting the image compression rate.
 
 c. File Formats
 
