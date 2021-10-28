@@ -22,3 +22,8 @@ Protocol = Set of rules to allow devices to communicate.
 
 ![image](https://user-images.githubusercontent.com/90066230/139249003-5c15f8f1-6408-4d52-bf47-d76c164f7e2e.png)
 
+# Networking Hardware
+
+a. The benefit of a switch over a hub includes 
+
+b. The benefit of a router over hubs and switches is 
