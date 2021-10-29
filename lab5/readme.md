@@ -3,7 +3,8 @@
 
 # Lucidchart
 
-![DecisionFlowchart](https://user-images.githubusercontent.com/90066230/139084703-3a343143-4e66-47c1-b2eb-dcbb557d51de.jpeg)
+![DecisionFlowchart](https://user-images.githubusercontent.com/90066230/139426872-427a9268-f530-40a0-ab68-4ac0771a4374.jpeg)
+
 Summary of Experience with Lucidchart
 
 # Introduction to Networking
