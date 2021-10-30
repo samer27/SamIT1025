@@ -47,3 +47,22 @@ b. The benefit of a router over hubs and switches is that a router is the smarte
 ![image](https://user-images.githubusercontent.com/90066230/139259619-3315d005-4386-4203-86a9-a9a23934ae80.png)
 
 # Network Topologies
+
+a. 
+
+![image](https://user-images.githubusercontent.com/90066230/139531738-e057851b-81ea-4dbb-9b4b-7f8bb11cfce2.png)
+
+b.
+
+![image](https://user-images.githubusercontent.com/90066230/139531744-6dbd5351-b051-4ca8-9253-4a576cafc2e0.png)
+
+# Network Design
+
+![Network Design](https://user-images.githubusercontent.com/90066230/139531771-d4eeae0c-ba0c-4bda-9e0a-8df31f1bdfbe.jpeg)
+
+*** I choose a hybrid topology 
+
+# NSA/CSS
+
+
+
