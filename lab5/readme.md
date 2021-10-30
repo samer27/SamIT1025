@@ -48,11 +48,15 @@ b. The benefit of a router over hubs and switches is that a router is the smarte
 
 # Network Topologies
 
-a. 
+a. A SPOF or Single Point of Failure is any non-redundant part of a system that, if dysfunctional, would cause the entire system to fail.  For example, a single point of failure opposes the goal of high availability in a computing system of network, a software application, a business practice, or any other industrial system.   
 
 ![image](https://user-images.githubusercontent.com/90066230/139531738-e057851b-81ea-4dbb-9b4b-7f8bb11cfce2.png)
 
-b.
+b. An infrastructure topology is used to extend a wired LAN to include wireless devices.  In this topology, the devices communicate with the wired LAN via base stations called an AP, which acts as a bridge between wired and wireless LANs (WLANs). 
+
+Wireless mesh networks (WMNs) are communication networks that comprise radio nodes in which nodes are arranged in a mesh topology.  Mesh topology is interconnectd of all nodes connected with all other nodes on the network.
+
+*** The better choice here would be
 
 ![image](https://user-images.githubusercontent.com/90066230/139531744-6dbd5351-b051-4ca8-9253-4a576cafc2e0.png)
 
