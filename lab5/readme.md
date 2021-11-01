@@ -81,4 +81,28 @@ Availability means information can be accessed and modified by anyone authorized
 
 ![image](https://user-images.githubusercontent.com/90066230/139684046-42fdc154-0bef-4103-80c1-2651941c1a14.png)
 
-b. 
+b. Tools for authentication are used to ensure that the person accessing the information is, indeed, who they present themselves to be.  Authentication can be accomplished by identifying someone through one or more factors: something they know, something they have, or something they are.  For example, the most common form of authentication today is the user ID and pasword.  In this case, the authentication is done by confirming something that the user knows (their ID and password).  However, the user ID and password form of authentication are easy to compromise.  As a result, more robust forms of authentication are sometimes needed.
+
+A more secure way to authenticate a user is through multi-factor authentication.  An example of this would be the use of an RSA SecurID toke.  The RSA device is something you have, and it generates a new access code every sixty seconds.
+
+The final factor, something you are, is much harder to compromise.  This factor identifies a user by using a physical characteristic, such as a retinal scan, fingerprint, or facial geometry.  Identifying someone through their physical charactertistics is called biometrics.
+
+![image](https://user-images.githubusercontent.com/90066230/139725963-d3124169-9251-4d82-b00f-7ae5763aaabd.png)
+
+c.  Once a user has been authenticated, the next step is to ensure that they can only access the appropriate information resources.  This is done through the use of access control.  Access control determines which users are authenticated to read, modify, add, or delete information.  Several different access control models exists.  Two of the more common are: the Access Control List (ACL) and Role-Based Access Control (RBAC).
+
+An information security employee can produce an ACL that identifies a list of users who can take specific actions with an information resources such as data files.  Individual permissions are assigned to each user, such as read, write, delete, or add.  Only users with those permissions are allowed to perform those functions.
+
+ACLs are simple to understand and maintain, but there are several drawbacks.  The primary disadvantage is that each information resource is managed seperately, so it would be pretty tricky if a security adminstrator wanted to add or remove a user to a large set of information resources.  And as the number of users and resources increases, ACLs become harder to maintain.  This has led to an improved method of access control, called role-based access control, or RBAC.  With RBAC, users are assigned roles and access instead of giving specific users access rights to an information resource.  This allows the administrators to manage users and roles seperately, simplifying administration and, by extension, improving security.
+
+![image](https://user-images.githubusercontent.com/90066230/139727292-d295fc95-3425-4fac-9259-43ce92e35546.png)
+
+a. Encryption is a process of encoding data upon its transmission or storage so that onlh authorized individuals can read it.  This encoding is accomplished by software that encodes the plain text that must be transmitted (encryption).  Then the recipient receives the ciphertext and decodes it (decryption).  For this to work, the sender and receiver need to agree on the encoding method so that both parties have the same message.  Known as symmetric key encryption, both parties share the encryption key, enabling them to encode and decode each other's messages.
+
+An alternative to symmetric key encryption is public key encryption.  In public-key encryption, two keys are used: a public key and a private key.  To send an encrypted message, you obtain the public keys, encode the message, and send it.  The recipient then uses their private key to decode it.  The public key can be given to anyone who wishes to send the recipient a message.  Each user needs one private key and one public key to secure messages.  The private key is necessary to decrypt a message sent with the public key.
+
+![image](https://user-images.githubusercontent.com/90066230/139728308-e7a96da1-0870-4c75-b6fb-3e4b8965d378.png)
+
+c. Sometimes referred to as asymmetric cryptography, public-key cryptography is a class of cryptographic protocols based on algorithms.  This cryptography method requires two seperate keys, one that is private or secret and one that is public.  Public key crytography uses a pair of keys to encrypt and decrypt data to protect it against unauthorized access or use.  Network users receive public and private key pairs from certification authorities.  If other users want to encrypt data, they get the intended recipient's key from a shared directory.  This key is used to encrypt the message and send it to the recipient.  When the message arrives, the recipient decrypts it using a private key to which no one else has access.
+
+The increased data security provided by public-key cryptography is its main benefit.  Public-key cryptography remains the most secure protocol (over private key crytpography) because users never need to transmit or reveal their private keys to anyone, which lesses the chances of cybercriminals discovering an individual's secret key during the transmission.
