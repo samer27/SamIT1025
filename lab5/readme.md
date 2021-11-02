@@ -106,3 +106,6 @@ An alternative to symmetric key encryption is public key encryption.  In public-
 c. Sometimes referred to as asymmetric cryptography, public-key cryptography is a class of cryptographic protocols based on algorithms.  This cryptography method requires two seperate keys, one that is private or secret and one that is public.  Public key crytography uses a pair of keys to encrypt and decrypt data to protect it against unauthorized access or use.  Network users receive public and private key pairs from certification authorities.  If other users want to encrypt data, they get the intended recipient's key from a shared directory.  This key is used to encrypt the message and send it to the recipient.  When the message arrives, the recipient decrypts it using a private key to which no one else has access.
 
 The increased data security provided by public-key cryptography is its main benefit.  Public-key cryptography remains the most secure protocol (over private key crytpography) because users never need to transmit or reveal their private keys to anyone, which lesses the chances of cybercriminals discovering an individual's secret key during the transmission.
+
+#Cryptography
+
