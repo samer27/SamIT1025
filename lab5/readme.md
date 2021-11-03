@@ -1,5 +1,6 @@
 # Executive Summary
 
+Lab5 Cybersecurity and Networking identified networking components, topologies, and the NSA's role in networking security.  Also, we defined encryption technologies and approaches to cybersecurity to reduce threats.  However, I'll take away from this lab the different topologies that are wired or wireless and how encryption can change based on the cipher. 
 
 # Lucidchart
 
