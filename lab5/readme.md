@@ -54,15 +54,21 @@ a. A SPOF or Single Point of Failure is any non-redundant part of a system that,
 
 b. An infrastructure topology is used to extend a wired LAN to include wireless devices.  In this topology, the devices communicate with the wired LAN via base stations called an AP, which acts as a bridge between wired and wireless LANs (WLANs). 
 
+![image](https://user-images.githubusercontent.com/90066230/140062447-213d12f3-92ff-4fb9-a5f2-b52ed831d73a.png)
+
+
 Wireless mesh networks (WMNs) are communication networks that comprise radio nodes in which nodes are arranged in a mesh topology.  Mesh topology is interconnectd of all nodes connected with all other nodes on the network.
+
+![image](https://user-images.githubusercontent.com/90066230/140062481-efc54ea0-7a25-45dd-966f-aed7a33509a9.png)
+
 
 *** The better choice here would be
 
-![image](https://user-images.githubusercontent.com/90066230/139531744-6dbd5351-b051-4ca8-9253-4a576cafc2e0.png)
+
 
 # Network Design
 
-![Network Design](https://user-images.githubusercontent.com/90066230/139531771-d4eeae0c-ba0c-4bda-9e0a-8df31f1bdfbe.jpeg)
+![Network Design](https://user-images.githubusercontent.com/90066230/140062282-74548be2-817e-4daa-a078-440a468fc1ac.jpeg)
 
 *** I choose a hybrid topology 
 
