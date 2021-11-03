@@ -52,17 +52,17 @@ a. A SPOF or Single Point of Failure is any non-redundant part of a system that,
 
 ![image](https://user-images.githubusercontent.com/90066230/139531738-e057851b-81ea-4dbb-9b4b-7f8bb11cfce2.png)
 
-b. An infrastructure topology is used to extend a wired LAN to include wireless devices.  In this topology, the devices communicate with the wired LAN via base stations called an AP, which acts as a bridge between wired and wireless LANs (WLANs). 
+b. An infrastructure topology is used to extend a wired LAN to include wireless devices.  This topology uses a combination of wired and wireless devices.  This is very similar to a star topology where we have a wired device.  The computers are physically connected to a swtich and have a wireless access point connected by a cable to the same switch.  The wireless access point is here so that wireless devices such as laptops, tablets, cell phones, etc., can connect wirelessly to the network.  Now the infrastrucutre topology is not limited to the single wireless access point.  We can have multiple wireless access points if we want.  It just depends on the needs of the network.  In this topology, the devices communicate with the wired LAN via base stations called an AP, which acts as a bridge between wired and wireless LANs (WLANs). 
 
 ![image](https://user-images.githubusercontent.com/90066230/140062447-213d12f3-92ff-4fb9-a5f2-b52ed831d73a.png)
 
 
-Wireless mesh networks (WMNs) are communication networks that comprise radio nodes in which nodes are arranged in a mesh topology.  Mesh topology is interconnectd of all nodes connected with all other nodes on the network.
+Wireless mesh networks (WMNs) are communication networks that comprise radio nodes in which nodes are arranged in a mesh topology.  Wireless mesh topology is similar to wired mesh topologies, where devices are interconnected with each other but with the exception that they are wirelessly interconnected.  So, for example, we want to deploy multiple wireless access points throughout a building.  So that wireless devices that are in different areas can connect to the internet.  So typically, we would have a modem that brings the internet to the building and then switch that connected to the modem.  Then we would connect each wireless access point with a cable to the switch.  So by doing this, we would require extra cabling.  It would also require additional time running the cable throughout the building.  This is more expensive and time-consuming.  The wireless topology is similar to it but without the cables.  In a wireless mesh, each wireless access point talks to another wireless access point to create a seamless internet connection for a wireless device to connect.  So, for example, if the laptop wants to access the internet, it will connect to the nearest wireless access point.  Then this access point would rely on the connection to the next access point and then the next one and eventually finds its way back to the modem.  So, no matter which access point we connect to, we will have internet access because all the access points are in constant communication with each other and the modem, and even if one or more access points were to fail, it would not matter because the other access point will reroute the data to many access points.  Mesh topology is interconnectd of all nodes connected with all other nodes on the network.
 
 ![image](https://user-images.githubusercontent.com/90066230/140062481-efc54ea0-7a25-45dd-966f-aed7a33509a9.png)
 
 
-*** The better choice here would be
+A wireless mesh topology would be better although it's more expensive and more time-consuming, a wireless topology is similar to an infrastructure topology but without the cables.  In a wireless mesh, each access point talks to other wireless access points to create a seamless internet connection for a wireless device to connect.
 
 
 
@@ -70,7 +70,7 @@ Wireless mesh networks (WMNs) are communication networks that comprise radio nod
 
 ![Network Design](https://user-images.githubusercontent.com/90066230/140062282-74548be2-817e-4daa-a078-440a468fc1ac.jpeg)
 
-*** I choose a hybrid topology 
+I selected a hybrid topology design.  The gateway is reason why the other devices are able to connect to the internet and network.  The wireless AP also acts as the hub for the star network.  I added a computer and a printer in the nodes of the star design.   
 
 # NSA/CSS
 
