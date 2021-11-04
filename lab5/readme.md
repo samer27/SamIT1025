@@ -116,3 +116,18 @@ The increased data security provided by public-key cryptography is its main bene
 
 # Cryptography
 
+a. Caesar Cipher is one of the most straightforward and most widely known encryption techniques.  It is a substitution cipher in which each letter in the plaintext is replaced by a letter with a fixed number of positions down the alphabet.  For example, my message was, "sam is a student."  As I turned the wheel to encrypt my message, I noticed 26 numbers, one for every letter in the English alphabet that was static.  I also saw that the letters would change as I rotated the dial.  The encrypted message would then also vary based on the number and letter selected.
+
+b. If you scan a text from any book and count the frequency of each letter, you find a fairly consistent pattern.  So, to break this cipher, or algorithm for transforming plaintext to ciphertext, code breakers count up the frequencies of each letter in the encrypted text and check how far the fingerprint has shifted.  For example, if the H is the most popular letter in the encrypted message instead of E, the shift was likely there.
+
+Human languages are redundant, and the frequency of use of letters is not equal.  For example, E is the most common letter in English, followed by T, R, N, I, O, A, and S while other letters like Z, J, K, Q, and X are relatively rare.  Codebreakers can create tables of single, double (diagram), and triple letter (trigram) frequencies for various languages.
+
+c. Polyalphabetic ciphers help 'flatten' the distribution of letter frequencies.  A keyword is used - letters are shifted according to the corresponding letter in the keyword.
+
+![image](https://user-images.githubusercontent.com/90066230/140305651-0125d1ae-6cd4-4c0a-952a-099c64cee508.png)
+
+# Brute-Force
+
+
+
+# Conclusion
