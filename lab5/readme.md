@@ -128,6 +128,8 @@ c. Polyalphabetic ciphers help 'flatten' the distribution of letter frequencies.
 
 # Brute-Force
 
-
+Kerckhoff's principle is one of the basic principles of modern cryptography.  It was formulated at the end of the nineteenth century by Dutch cryptographer Auguste Kerckhoffs.  Kerckhoff's Principle states that a cryptosystem should be secure even if everything about the system, except the key, is public knowledge.  Thus, we expect algorithms to be publicly known and all security to rest entirely on the secrecy of the key.  Furthermore, for a cipher to be considered reasonable, Ciphertext should be indistinguishable from random values.  Next, given ciphertext, there should be no way to extract the original plaintext or the key used to create it except by enumerating all possible keys.  This is called a brute-force attack.  Finally, the keys used for encryption should be large enough that a brute force attack is not feasible.  Each additional bit in a key doubles the number of possible keys and hence doubles the search time.
 
 # Conclusion
+
+In Lab5, we identified networking components, topologies, and the NSA's role in networking security.  Also, we defined encryption technologies and approaches to cybersecurity to reduce threats.  What I now understand more clearly is the role of encryption in message sending.  The main idea is that the cipher key must be kept private between those sending messages; even all other components of the system are public knowledge.  I also understand the NSA's role in network security and educating the public of security issues.
