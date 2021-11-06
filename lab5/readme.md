@@ -6,7 +6,7 @@ Lab5 Cybersecurity and Networking identified networking components, topologies, 
 
 ![DecisionFlowchart](https://user-images.githubusercontent.com/90066230/139426872-427a9268-f530-40a0-ab68-4ac0771a4374.jpeg)
 
-Summary of Experience with Lucidchart
+My experience with Lucidchart was overall positive.  Lucidchart makes it easy to align text and images, has an easy-to-understand layout, and produces fantastic results.  I plan to utlize Lucidchart to create flowcharts to help me better understand various topics in I.T.
 
 # Introduction to Networking
 
