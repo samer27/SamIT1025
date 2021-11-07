@@ -1,6 +1,6 @@
 # Executive Summary
 
-Lab5 Cybersecurity and Networking identified networking components, topologies, and the NSA's role in networking security.  Also, we defined encryption technologies and approaches to cybersecurity to reduce threats.  However, I'll take away from this lab the different topologies that are wired or wireless and how encryption can change based on the cipher. 
+Lab5 Cybersecurity and Networking identified networking components, topologies, and the NSA's role in networking security.  Also, I defined encryption technologies and approaches to cybersecurity to reduce threats.  However, I'll take away from this lab the different topologies that are wired or wireless and how encryption can change based on the cipher. 
 
 # Lucidchart
 
@@ -43,7 +43,7 @@ a. The benefit of a switch over a hub includes a switch does what a hub does, bu
 ![image](https://user-images.githubusercontent.com/90066230/139259036-d1d67334-d7fd-463c-a71e-a61a4f22c4f5.png)
    
 
-b. The benefit of a router over hubs and switches is that a router is the smartest and most complicated of the three.  One way to view a router is as a computer that can be programmed to understand, manipulate, and act on the data it handles.  A router operates as a switch for basic routing: it learns the computer's location sending traffic, and routes information only to the neccessary connections.
+b. The benefit of a router over hubs and switches is that a router is the smartest and most complicated.  A router can be viewed as a computer that can be programmed to understand, manipulate, and act on the data it handles.  A router operates as a switch for basic routing: it learns the computer's location sending traffic, and routes information only to the neccessary connections.
 
 ![image](https://user-images.githubusercontent.com/90066230/139259619-3315d005-4386-4203-86a9-a9a23934ae80.png)
 
@@ -53,17 +53,17 @@ a. A SPOF or Single Point of Failure is any non-redundant part of a system that,
 
 ![image](https://user-images.githubusercontent.com/90066230/139531738-e057851b-81ea-4dbb-9b4b-7f8bb11cfce2.png)
 
-b. An infrastructure topology is used to extend a wired LAN to include wireless devices.  This topology uses a combination of wired and wireless devices.  This is very similar to a star topology where we have a wired device.  The computers are physically connected to a swtich and have a wireless access point connected by a cable to the same switch.  The wireless access point is here so that wireless devices such as laptops, tablets, cell phones, etc., can connect wirelessly to the network.  Now the infrastrucutre topology is not limited to the single wireless access point.  We can have multiple wireless access points if we want.  It just depends on the needs of the network.  In this topology, the devices communicate with the wired LAN via base stations called an AP, which acts as a bridge between wired and wireless LANs (WLANs). 
+b. An infrastructure topology is used to extend a wired LAN to include wireless devices.  This topology uses a combination of wired and wireless devices.  This is very similar to a star topology where we have a wired device.  The computers are physically connected to a swtich and have a wireless access point connected by a cable to the same switch.  The wireless access point is here so that wireless devices such as laptops, tablets, cell phones, etc., can connect wirelessly to the network.  Now the infrastrucutre topology is not limited to the single wireless access point.  If desired multiple wireless access points can be had, depending on the needs of the network.  In this topology, the devices communicate with the wired LAN via base stations called an AP, which acts as a bridge between wired and wireless LANs (WLANs). 
 
 ![image](https://user-images.githubusercontent.com/90066230/140062447-213d12f3-92ff-4fb9-a5f2-b52ed831d73a.png)
 
 
-Wireless mesh networks (WMNs) are communication networks that comprise radio nodes in which nodes are arranged in a mesh topology.  Wireless mesh topology is similar to wired mesh topologies, where devices are interconnected with each other but with the exception that they are wirelessly interconnected.  So, for example, we want to deploy multiple wireless access points throughout a building.  So that wireless devices that are in different areas can connect to the internet.  So typically, we would have a modem that brings the internet to the building and then switch that connected to the modem.  Then we would connect each wireless access point with a cable to the switch.  So by doing this, we would require extra cabling.  It would also require additional time running the cable throughout the building.  This is more expensive and time-consuming.  The wireless topology is similar to it but without the cables.  In a wireless mesh, each wireless access point talks to another wireless access point to create a seamless internet connection for a wireless device to connect.  So, for example, if the laptop wants to access the internet, it will connect to the nearest wireless access point.  Then this access point would rely on the connection to the next access point and then the next one and eventually finds its way back to the modem.  So, no matter which access point we connect to, we will have internet access because all the access points are in constant communication with each other and the modem, and even if one or more access points were to fail, it would not matter because the other access point will reroute the data to many access points.  Mesh topology is interconnectd of all nodes connected with all other nodes on the network.
+Wireless mesh networks (WMNs) are communication networks that comprise radio nodes in which nodes are arranged in a mesh topology.  Wireless mesh topology is similar to wired mesh topologies, where devices are interconnected with each other but with the exception that they are wirelessly interconnected.  So, for example, you want to deploy multiple wireless access points throughout a building.  So that wireless devices that are in different areas can connect to the internet.  So typically, you would have a modem that brings the internet to the building and then switch that connected to the modem.  Then we would connect each wireless access point with a cable to the switch.  So by doing this, we would require extra cabling.  It would also require additional time running the cable throughout the building.  This is more expensive and time-consuming.  The wireless topology is similar to it but without the cables.  In a wireless mesh, each wireless access point talks to another wireless access point to create a seamless internet connection for a wireless device to connect.  So, for example, if the laptop wants to access the internet, it will connect to the nearest wireless access point.  Then this access point would rely on the connection to the next access point and then the next one and eventually finds its way back to the modem.  So, no matter which access point we connect to, we will have internet access because all the access points are in constant communication with each other and the modem, and even if one or more access points were to fail, it would not matter because the other access point will reroute the data to many access points.  Mesh topology is interconnectd of all nodes connected with all other nodes on the network.
 
 ![image](https://user-images.githubusercontent.com/90066230/140062481-efc54ea0-7a25-45dd-966f-aed7a33509a9.png)
 
 
-A wireless mesh topology would be better although it's more expensive and more time-consuming, a wireless topology is similar to an infrastructure topology but without the cables.  In a wireless mesh, each access point talks to other wireless access points to create a seamless internet connection for a wireless device to connect.
+A wireless mesh topology would be better because although its more expensive and time-consuming, a wireless topology is similar to a infrastructure topology but without the cables.  In a wireless mesh, each access point talks to other wireless access points to create a seamless internet connection for a wireless device to connect.
 
 
 
@@ -71,7 +71,7 @@ A wireless mesh topology would be better although it's more expensive and more t
 
 ![Network Design](https://user-images.githubusercontent.com/90066230/140062282-74548be2-817e-4daa-a078-440a468fc1ac.jpeg)
 
-I selected a hybrid topology design.  The gateway is reason why the other devices are able to connect to the internet and network.  The wireless AP also acts as the hub for the star network.  I added a computer and a printer in the nodes of the star design.   
+I selected a hybrid topology design.  The gateway gives other devices the ability to connect to the internet and network.  The wireless AP also acts as the hub for the star network.  I added a computer and a printer in the nodes of the star design to symbolize the network.  
 
 # NSA/CSS
 
@@ -79,7 +79,8 @@ The NSA's role in U.S. cybersecurity is to prevent and eradicate threats to U.S.
 
 # Cybersecurity and Encryption
 
-a. As part of the Amazon.com online chat, the security triad includes Confidentiality, Integrity, Availablity (CIA) would impact my job as follows:
+a. As part of the Amazon.com online chat, the security triad includes Confidentiality, Integrity, and Availablity (CIA) would impact my job as follows:
+
 According to Chapter 6, Information Systems Security, the security triad includes confidentiality, integrity, and availability.  Confidentiality means you want to be able to restrict access to those who are allowed to see it.  This is sometimes referred to as Need To Know (NTK).  Everyone else should be disallowed from learning anything about its contents.  This is the principle of confidentiality.  For example, federal law requires that universities restrict access to private student information.  Therefore, access to grade records should be limited to those who have authorized access.  For example, in an online chat through Amazon.com, I would have to confirm the customer information by asking for their full name, address, and phone number of record.
 
 Integrity is the assurance that the information accessed has not beed altered and truly represents what is intended.  Similarly, as a person with integrity means what they say and can be trusted to represent the truth consistently, information integrity means information truly represents its intended meaning.  However, information can lose its integirty through malicious intent, such as when someone who is not authorized makes a change to misrepresent something intentionally.  An example of this would be when a hacker is hired to go into the university's system and change a student's grade.  In addition, integrity can be lost unintentionally, such as when a computer power surge corrupts a file or someone authorized to make a change accidently deletes a file or enters incorrect information.  Through Amazon.com chat, I could also ask the customer to verify their identity through two-factor authentication.
@@ -90,7 +91,7 @@ Availability means information can be accessed and modified by anyone authorized
 
 b. Tools for authentication are used to ensure that the person accessing the information is, indeed, who they present themselves to be.  Authentication can be accomplished by identifying someone through one or more factors: something they know, something they have, or something they are.  For example, the most common form of authentication today is the user ID and pasword.  In this case, the authentication is done by confirming something that the user knows (their ID and password).  However, the user ID and password form of authentication are easy to compromise.  As a result, more robust forms of authentication are sometimes needed.
 
-A more secure way to authenticate a user is through multi-factor authentication.  An example of this would be the use of an RSA SecurID toke.  The RSA device is something you have, and it generates a new access code every sixty seconds.
+A more secure way to authenticate a user is through multi-factor authentication.  An example of this would be the use of an RSA SecurID toke.  The RSA device is something one has in possession, and it generates a new access code every sixty seconds.
 
 The final factor, something you are, is much harder to compromise.  This factor identifies a user by using a physical characteristic, such as a retinal scan, fingerprint, or facial geometry.  Identifying someone through their physical charactertistics is called biometrics.
 
@@ -124,6 +125,8 @@ Human languages are redundant, and the frequency of use of letters is not equal.
 
 c. Polyalphabetic ciphers help 'flatten' the distribution of letter frequencies.  A keyword is used - letters are shifted according to the corresponding letter in the keyword.
 
+e. A polyalphabetic cipher is any cipher based on substitution, using multiple substitution alphabets.  For example, I typed, "sam is a student" with the shifting word as "sam."  I noticed how patterns began to emerge in my writing such as how many of letters used were the more common letters. 
+
 ![image](https://user-images.githubusercontent.com/90066230/140305651-0125d1ae-6cd4-4c0a-952a-099c64cee508.png)
 
 # Brute-Force
@@ -132,4 +135,4 @@ Kerckhoff's principle is one of the basic principles of modern cryptography.  It
 
 # Conclusion
 
-In Lab5, we identified networking components, topologies, and the NSA's role in networking security.  Also, we defined encryption technologies and approaches to cybersecurity to reduce threats.  What I now understand more clearly is the role of encryption in message sending.  The main idea is that the cipher key must be kept private between those sending messages; even all other components of the system are public knowledge.  I also understand the NSA's role in network security and educating the public of security issues.
+In Lab5, I identified networking components, topologies, and the NSA's role in networking security.  Also, I defined encryption technologies and approaches to cybersecurity to reduce threats.  What I now understand more clearly is the role of encryption in message sending.  The main idea is that the cipher key must be kept private between those sending messages; even though all other components of the system are public knowledge.  I also understand the NSA's role in network security and educating the public of security issues.
