@@ -24,4 +24,10 @@ a. TCP/IP means Transmission Control Protocol/Internet Protocol.  A protocol is 
 
 The entire IP suite is commonly referred to as TCP/IP.  TCP and IP are the two main protocols, though others are includes in the suite.  The TCP/IP protocol suite functions as an abstraction layer between Internet applications and the routing and switching fabric.
 
-b. 
+b. TCP/IP uses the client-server model of communication.  This translates to a user or machine (a client) being provided a service, like sending a webpage, by another computer (a server) in the network.
+
+The TCP/IP suite of protocols is categorized as stateless.  Being stateless means, each client request is deemed new because it is unrelated to previous requests.  Being stateless frees up network paths so they can be used constantly.
+
+i. When working with changing technology, layers/tasks are essential.  This is due to the design of the overall effciency of the post office to make a delivery.  The fundamental idea is that any of the layers can be changed without altering the other layers.
+
+ii. The "application" layer is for software types like the network.  The application layer feeds network services to end-user applications.  Network services are protocols that operate with the user's data.  For example, in a web browser application, the Application layer protocol HTTP packages the data needed to send and receive web page content.
