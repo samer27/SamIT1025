@@ -31,3 +31,13 @@ The TCP/IP suite of protocols is categorized as stateless.  Being stateless mean
 i. When working with changing technology, layers/tasks are essential.  This is due to the design of the overall effciency of the post office to make a delivery.  The fundamental idea is that any of the layers can be changed without altering the other layers.
 
 ii. The "application" layer is for software types like the network.  The application layer feeds network services to end-user applications.  Network services are protocols that operate with the user's data.  For example, in a web browser application, the Application layer protocol HTTP packages the data needed to send and receive web page content.
+
+# Internet Security
+
+a. HyperText Transfer Protocol, or HTTP, is most likely the protocol of choice in the world.  HTTP is the protocol that is used for viewing web pages on the Internet.  For example, when typing in a web address, such as google.com, you'll see that HTTP is automatically added at the beginning of the web address.  As a result, this shows that you are now using HTTP to retrieve this web page.
+
+b. HTTP uses specific protocols that secure data.  When data travels over the Internet, it goes through the public Internet.  It starts on your computer and must travel across the public Internet to get to a particular webserver.  As a result, hackers can easily exploit sensitive information by listening when it travels and tranfers through the public Internet.  Enter HTTPS and why it was developed.
+
+HTTPS stands for Secure HyperText Transfer Protocol.  HTTPS is HTTP with a security feature.  Secure HTTP encrypts the data that is being retrieved by HTTP.  It ensures that all the information transferred over the Internet between computers and servers is protected by making the data impossible to read.  This is done by using encryption algorithms to scramble the data transmitted.  So by using secure HTTP, all the data, including anything you type, is no longer sent in cleartext.  So, if a hacker were to try and steal information, they would get a bunch of meaningless data because the data is encrypted.  The hacker would not be able to crack the encryption to unscramble the data.
+
+# Securing Your Web Browser
