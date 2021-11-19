@@ -54,4 +54,10 @@ a.  Tim Berners-Lee was responsible for the invention of the World Wide Web in 1
 
 b.  An essential "standard" that stood out to me was Browsers and Authoring Tools.  It appeared vital because the web's usefulness and growth depend on its universality.  Web users should publish regardless of the software used, the computer owned, the language spoken, whether wired or wireless, regardless of our sensory or interactions modes.  Users should access the web from any hardware that can connect to the Internet - stationary or mobile, small or large.  W3C enables this listening and blending via international web standards.  These standards ensure that all the ridiculous talent continues to improve a web open to all of us.
 
+# Web Page
+
+![WebPage](https://user-images.githubusercontent.com/90066230/142643552-68c4d33e-3b3f-442a-a560-9c4112f1008f.jpg)
+
+
+
 
