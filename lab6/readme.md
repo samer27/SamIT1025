@@ -41,3 +41,17 @@ b. HTTP uses specific protocols that secure data.  When data travels over the In
 HTTPS stands for Secure HyperText Transfer Protocol.  HTTPS is HTTP with a security feature.  Secure HTTP encrypts the data that is being retrieved by HTTP.  It ensures that all the information transferred over the Internet between computers and servers is protected by making the data impossible to read.  This is done by using encryption algorithms to scramble the data transmitted.  So by using secure HTTP, all the data, including anything you type, is no longer sent in cleartext.  So, if a hacker were to try and steal information, they would get a bunch of meaningless data because the data is encrypted.  The hacker would not be able to crack the encryption to unscramble the data.
 
 # Securing Your Web Browser
+
+a.  In today's world, web browsers are installed on almost every computer.  Due to web browsers' frequent use, it is essential to configure web browsers securely.  Unfortunately, the web browser with an operating system is often not set up in a secure default configuration.  Not securing your web browser can quickly lead to various computer problems.  The problems include anything from spyware being installed without your knowledge to intruders taking control of your computer.
+
+b.  One risk described in the article that stood out to me was Java.  Java is an object-oriented programming language that can be used to develop dynamic content for websites.  A Java Virtual Machine, or JVM, is used to execute the Java code, or "applet," provided by the website.  Some operating systems come with a JVM, while others require a JVM to be installed before using Java.  Java applets are operating system independent.
+
+Java applets usually execute within a "sandbox" where the communication with the rest of the system is reduced.  However, various applications of the JVM contain vulnerabilities that allow an applet to bypass these constraints.  Signed Java applets can also bypass sandbox restrictions, but they generally prompt the user before executing.
+
+# Internet Programming
+
+a.  Tim Berners-Lee was responsible for the invention of the World Wide Web in 1989.  Tim Berners-Lee also founded the World Wide Web Consortium (W3C) in 1994.  The W3C mission is to lead the World Wide Web to its fullest potential by developing protocols and guidelines that ensure the long-term growth of the Web.
+
+b.  An essential "standard" that stood out to me was Browsers and Authoring Tools.  It appeared vital because the web's usefulness and growth depend on its universality.  Web users should publish regardless of the software used, the computer owned, the language spoken, whether wired or wireless, regardless of our sensory or interactions modes.  Users should access the web from any hardware that can connect to the Internet - stationary or mobile, small or large.  W3C enables this listening and blending via international web standards.  These standards ensure that all the ridiculous talent continues to improve a web open to all of us.
+
+
