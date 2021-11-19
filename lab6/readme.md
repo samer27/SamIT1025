@@ -62,6 +62,10 @@ b.  An essential "standard" that stood out to me was Browsers and Authoring Tool
 
 ![WebPageWithCSS](https://user-images.githubusercontent.com/90066230/142643793-59ae3374-03c4-4703-8cb6-8fe58d3df378.jpg)
 
+# HTML5 and CSS
+
+HTML5, or HyperText Markup Language, is a simple data format used to create hypertext documents that are portable from one platform to another.
+
 
 
 
