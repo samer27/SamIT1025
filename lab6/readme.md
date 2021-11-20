@@ -38,6 +38,8 @@ ii. The "application" layer is for software types like the network.  The applica
 
 a. HyperText Transfer Protocol, or HTTP, is most likely the protocol of choice in the world.  HTTP is the protocol that is used for viewing web pages on the Internet.  For example, when typing in a web address, such as google.com, you'll see that HTTP is automatically added at the beginning of the web address.  As a result, this shows that you are now using HTTP to retrieve this web page.
 
+The HTTP is the Web's application layer protocol that works on the client-server technology.  The client requested the HTML pages towards the server, and the server responds with the HTML pages.  The client requests pages and objects through its agent, and the server responds to them with the requsted objects by displaying them.
+
 b. HTTP uses specific protocols that secure data.  When data travels over the Internet, it goes through the public Internet.  It starts on your computer and must travel across the public Internet to get to a particular webserver.  As a result, hackers can easily exploit sensitive information by listening when it travels and tranfers through the public Internet.  Enter HTTPS and why it was developed.
 
 HTTPS stands for Secure HyperText Transfer Protocol.  HTTPS is HTTP with a security feature.  Secure HTTP encrypts the data that is being retrieved by HTTP.  It ensures that all the information transferred over the Internet between computers and servers is protected by making the data impossible to read.  This is done by using encryption algorithms to scramble the data transmitted.  So by using secure HTTP, all the data, including anything you type, is no longer sent in cleartext.  So, if a hacker were to try and steal information, they would get a bunch of meaningless data because the data is encrypted.  The hacker would not be able to crack the encryption to unscramble the data.
@@ -77,17 +79,17 @@ XML stands for eXtensible Markup Language.  XML was designed to store, transport
   
 # Components of a URL
   
-Scheme =
+Scheme = https
   
-Domain =
+Domain = www.amazon.com
   
-Top level domain =
+Top level domain = .edu
   
-Default page =
+Default page = Specific location on a page
   
-Parameters =
+Parameters = Result of search
   
-Anchor = 
+Anchor = No file path provided 
 
 
   
