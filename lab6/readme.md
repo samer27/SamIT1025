@@ -64,9 +64,42 @@ b.  An essential "standard" that stood out to me was Browsers and Authoring Tool
 
 # HTML5 and CSS
 
-HTML5, or HyperText Markup Language, is a simple data format used to create hypertext documents that are portable from one platform to another.
+HTML5, or HyperText Markup Language, is a simple data format used to create hypertext documents that are portable from one platform to another.  HTML has been in use by the World-Wide Web global information initiative since 1990.  Previously, informal documentation on HTML has been available from several sources on the Intetnet.  This specification brings together, clarifies, and formalizes a set of features that roughly corresponds to the capabilities of HTML in everyday use before June 1994.  In addition, many new features to HTML are being proposed and experimented with within the Internet community.  My approach here was to follow the guidelines outlined by w3schools.com and follow what was said.  
+
+CSS, or Cascading Style Sheets, is the language used to style an HTML document.  CSS describes how HTML elements should be displayed on a screen, paper, or in other media.  CSS saves a lot of work.  It can control the layout of multiple web pages all at once.  In addition, external stylesheets are stored in CSS files.  My approach includes keeping things as clean and straightforward as possible.
+
+# HTML and XML
+
+XML stands for eXtensible Markup Language.  XML was designed to store, transport, and carry data - focusing on what data is.  Also, XML tags are not predefined like HTML tags are.  
+HTML works with predefined tags like <p>, <h1>, <table>, etc.  With XML, the author must define both the tags and the document structure.  Most XML applications will work as expected even if new data is added (or removed).
+
+  
+# Components of a URL
+  
+Scheme =
+Domain = 
+Top level domain =
+Default page =
+Parameters = 
+Anchor = 
 
 
+  
+# WebStructure
+  
+![WebStructure](https://user-images.githubusercontent.com/90066230/142728303-251ab1f2-187b-4043-a594-79dde9229a63.jpg)
+  
+
+# ImageProperties
+  
+
+![ImageProperties](https://user-images.githubusercontent.com/90066230/142728347-2989aa95-c4cc-481c-91bd-424d4367ff2f.jpg)
 
 
+# WebPageWithImage
+  
+
+  
+# Conclusion
+  
 
