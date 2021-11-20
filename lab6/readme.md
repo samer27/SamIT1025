@@ -1,5 +1,7 @@
 # Executive Summary
 
+Working in Lab6, Internet Architecture and Programming, I explored the protocols that support communication on the Internet.  Also, I described Internet programming methodologies and practiced creating a web page with HTML and CSS.  From this lab, I hope to take away the essential steps in creating a web page in different language formats and understanding what rules help communication on the Internet.
+
 # Internet Architecture
 
 # Internet Protocol
@@ -106,4 +108,4 @@ Anchor =
   
 # Conclusion
   
-
+In Lab6 Internet Architecture and Programming, I explored the protocols that support communication on the Internet.  Also, I described Internet programming methodologies and practiced creating a web page with HTML and CSS.  After completing Lab6, what stood out to me the most was the components of a URL and how it relates to communication on the World Wide Web.  Last;y, I realized how computer code affects the overall outlook and orientation using HTML and CSS.
