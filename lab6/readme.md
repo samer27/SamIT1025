@@ -70,17 +70,21 @@ CSS, or Cascading Style Sheets, is the language used to style an HTML document. 
 
 # HTML and XML
 
-XML stands for eXtensible Markup Language.  XML was designed to store, transport, and carry data - focusing on what data is.  Also, XML tags are not predefined like HTML tags are.  
-HTML works with predefined tags like <p>, <h1>, <table>, etc.  With XML, the author must define both the tags and the document structure.  Most XML applications will work as expected even if new data is added (or removed).
+XML stands for eXtensible Markup Language.  XML was designed to store, transport, and carry data - focusing on what data is.  Also, XML tags are not predefined like HTML tags are.  HTML works with predefined tags like <p, <h1, <table, etc.  With XML, the author must define both the tags and the document structure.  Most XML applications will work as expected even if new data is added (or removed).
 
   
 # Components of a URL
   
 Scheme =
-Domain = 
+  
+Domain =
+  
 Top level domain =
+  
 Default page =
-Parameters = 
+  
+Parameters =
+  
 Anchor = 
 
 
