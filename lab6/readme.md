@@ -6,9 +6,9 @@ Working in Lab6, Internet Architecture and Programming, I explored the protocols
 
 # Internet Protocol
 
-a.  IP address is a shorter way of saying "Internet Protocol address."  IP addresses are the numbers assigned to computer network interfaces.  among other vital functions, they identify every device connected to the Internet, whether a web server, smartphone, mail server, or laptop.  So when you send an email, visit a website, or participate in a video conference, your computer sends data packets to the IP address of the other end of the connection and receives packets destined for its IP address.  Without the IP address asssigned to our computers, you would have to send paper letters and memos instead of emails.
+a.  IP address is a shorter way of saying "Internet Protocol address."  IP addresses are the numbers assigned to computer network interfaces.  among other vital functions, they identify every device connected to the Internet, whether a web server, smartphone, mail server, or laptop.  So, when you send an email, visit a website, or participate in a video conference, your computer sends data packets to the IP address of the other end of the connection and receives packets destined for its IP address.  Without the IP address assigned to our computers, you would have to send paper letters and memos instead of emails.
 
-After years of rapid Internet expansion, the pool of available unallocated addresses for the original Internet Protocol, known as IPv4, has been fully allocated to Internet Services and users.  That's why we need IPv6, the next generation of the Intetnet protocol that has a massively more significant address space than IPv4.
+After years of rapid Internet expansion, the pool of available unallocated addresses for the original Internet Protocol, known as IPv4, has been fully allocated to Internet Services and users.  That's why we need IPv6, the next generation of the Internet protocol that has a massively more significant address space than IPv4.
 
 b.
 
