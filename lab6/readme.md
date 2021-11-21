@@ -16,21 +16,21 @@ b.
 
 c. 
 
-The numbers and names needed to reach another person on the Internet must be unique, so computers know where to find each other.  ICANN (Intetnet Corporation for Assigned Names and Numbers) aligns these unique identifiers across the world.  Without that alignment, the world wouldn't have one global Internet.  It is also a not-for-profit partnership worldwide dedicated to keeping the Internet secure, stable, and interoperable.  In addition, it promotes competition and develops policy on the Internet's unique identifiers.
+The numbers and names needed to reach another person on the Internet must be unique, so computers know where to find each other.  ICANN (Internet Corporation for Assigned Names and Numbers) aligns these unique identifiers across the world.  Without that alignment, the world wouldn't have one global Internet.  It is also a not-for-profit partnership worldwide dedicated to keeping the Internet secure, stable, and interoperable.  In addition, it promotes competition and develops policy on the Internet's unique identifiers.
 
-ICANN doesn't control the content on the Internet.  It cannot stop spam, and it doesn't deal with access to the Internet.  However, through its coordination role of the Internet's naming system, it does have an essential impact on the expansion and evolution of the Internet.  "Universal resolvability" is a common term here.  It means that wherever you are on the network - and hence the word - you receive the same predictable results when you access the network.  Without this, you could end up with an Internet that worked entirely differently depending on your location on the globe.
+ICANN doesn't control the content on the Internet.  It cannot stop spam, and it doesn't deal with access to the Internet.  However, through its coordination role of the Internet's naming system, it does have an important impact on the expansion and evolution of the Internet.  "Universal resolvability" is a common term here.  It means that wherever you are on the network - and hence the word - you receive the same predictable results when you access the network.  Without this, you could end up with an Internet that worked entirely differently depending on your location on the globe.
 
 # TCP/IP
 
-a. TCP/IP means Transmission Control Protocol/Internet Protocol.  A protocol is a set of rules that govern how systems communicate.  For networking, they manage how data is transferred from one system to another.  It is a suite of communication protocols uses to interconnect network devices on the Internet.  A protocol suite is a collection of protocols that are designed to work together.  TCP/IP is also used as a communcations protocol in a private computer network.
+a. TCP/IP means Transmission Control Protocol/Internet Protocol.  A protocol is a set of rules that govern how systems communicate.  For networking, they manage how data is transferred from one system to another.  It is a suite of communication protocols used to interconnect network devices on the Internet.  A protocol suite is a collection of protocols that are designed to work together.  TCP/IP is also used as a communcations protocol in a private computer network.
 
-The entire IP suite is commonly referred to as TCP/IP.  TCP and IP are the two main protocols, though others are includes in the suite.  The TCP/IP protocol suite functions as an abstraction layer between Internet applications and the routing and switching fabric.
+The entire IP suite is commonly referred to as TCP/IP.  TCP and IP are the two main protocols, though others are included in the suite.  The TCP/IP protocol suite functions as an abstraction layer between Internet applications and the routing and switching fabric.
 
 b. TCP/IP uses the client-server model of communication.  This translates to a user or machine (a client) being provided a service, like sending a webpage, by another computer (a server) in the network.
 
 The TCP/IP suite of protocols is categorized as stateless.  Being stateless means, each client request is deemed new because it is unrelated to previous requests.  Being stateless frees up network paths so they can be used constantly.
 
-i. When working with changing technology, layers/tasks are essential.  This is due to the design of the overall effciency of the post office to make a delivery.  The fundamental idea is that any of the layers can be changed without altering the other layers.
+i. When working with changing technology, layers/tasks are essential.  This is due to the design of the overall efficiency of the post office to make a delivery.  The fundamental idea is that any of the layers can be changed without altering the other layers.
 
 ii. The "application" layer is for software types like the network.  The application layer feeds network services to end-user applications.  Network services are protocols that operate with the user's data.  For example, in a web browser application, the Application layer protocol HTTP packages the data needed to send and receive web page content.
 
@@ -38,9 +38,9 @@ ii. The "application" layer is for software types like the network.  The applica
 
 a. HyperText Transfer Protocol, or HTTP, is most likely the protocol of choice in the world.  HTTP is the protocol that is used for viewing web pages on the Internet.  For example, when typing in a web address, such as google.com, you'll see that HTTP is automatically added at the beginning of the web address.  As a result, this shows that you are now using HTTP to retrieve this web page.
 
-The HTTP is the Web's application layer protocol that works on the client-server technology.  The client requested the HTML pages towards the server, and the server responds with the HTML pages.  The client requests pages and objects through its agent, and the server responds to them with the requsted objects by displaying them.
+The HTTP is the Web's application layer protocol that works on the client-server technology.  The client requested the HTML pages towards the server, and the server responded with the HTML pages.  The client requests pages and objects through its agent, and the server responds to them with the requested objects by displaying them.
 
-b. HTTP uses specific protocols that secure data.  When data travels over the Internet, it goes through the public Internet.  It starts on your computer and must travel across the public Internet to get to a particular webserver.  As a result, hackers can easily exploit sensitive information by listening when it travels and tranfers through the public Internet.  Enter HTTPS and why it was developed.
+b. HTTP uses specific protocols that secure data.  When data travels over the Internet, it goes through the public Internet.  It starts on your computer and must travel across the public Internet to get to a particular webserver.  As a result, hackers can easily exploit sensitive information by listening when it travels and transfers through the public Internet.  Enter HTTPS and why it was developed.
 
 HTTPS stands for Secure HyperText Transfer Protocol.  HTTPS is HTTP with a security feature.  Secure HTTP encrypts the data that is being retrieved by HTTP.  It ensures that all the information transferred over the Internet between computers and servers is protected by making the data impossible to read.  This is done by using encryption algorithms to scramble the data transmitted.  So by using secure HTTP, all the data, including anything you type, is no longer sent in cleartext.  So, if a hacker were to try and steal information, they would get a bunch of meaningless data because the data is encrypted.  The hacker would not be able to crack the encryption to unscramble the data.
 
