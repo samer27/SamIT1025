@@ -111,4 +111,4 @@ Anchor = No file path provided
 
 # Conclusion
   
-In Lab6 Internet Architecture and Programming, I explored the protocols that support communication on the Internet.  Also, I described Internet programming methodologies and practiced creating a web page with HTML and CSS.  After completing Lab6, what stood out to me the most was the components of a URL and how it relates to communication on the World Wide Web.  Last;y, I realized how computer code affects the overall outlook and orientation using HTML and CSS.
+In Lab6 Internet Architecture and Programming, I explored the protocols that support communication on the Internet.  Also, I described Internet programming methodologies and practiced creating a web page with HTML and CSS.  After completing Lab6, what stood out to me the most was the URL components and how it relates to communication on the World Wide Web.  Last;y, I realized how computer code affects the overall outlook and orientation using HTML and CSS.
