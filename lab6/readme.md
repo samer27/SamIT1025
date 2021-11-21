@@ -105,9 +105,10 @@ Anchor = No file path provided
 
 
 # WebPageWithImage
+
+![WebPageWithImage](https://user-images.githubusercontent.com/90066230/142766080-1d6e590c-6ff1-45a6-87d4-dc62ac92e0c9.jpg)
   
 
-  
 # Conclusion
   
 In Lab6 Internet Architecture and Programming, I explored the protocols that support communication on the Internet.  Also, I described Internet programming methodologies and practiced creating a web page with HTML and CSS.  After completing Lab6, what stood out to me the most was the components of a URL and how it relates to communication on the World Wide Web.  Last;y, I realized how computer code affects the overall outlook and orientation using HTML and CSS.
