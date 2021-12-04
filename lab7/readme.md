@@ -16,8 +16,16 @@ b. I noted the original file size to be 5.30 KB.  However, after compressing the
 
 # Object-Oriented Programming (OOP)
 
-i. 
+i. Methods are a special kind of function that is defined within a class.  Because these functions are indented under the class Shark, they are called methods.
 
-ii.
+An object, or property, is an instance of a class.  So then, you can take the Shark class defined above and use it to create an object or instance of it.
 
-iii.
+ii. The constructor method is used to initialize data.  It is run as soon as an object of a class is instantiated.
+
+iii. Classes are like a blueprint or a prototype that you can define to create objects.  
+An object is an instance of a class.
+Creating an object from the class 'blueprint' is called instantiation.  Essentially, you instantiate an instance of the class and give that instance a name by which you will refer to it when accessing members and calling methods.  You can create as many object instances of a class as you desire.  Objects are instantiated from a class using the new keyword.
+
+# Shark Objects
+
+
