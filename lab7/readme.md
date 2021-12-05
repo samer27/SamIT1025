@@ -43,9 +43,13 @@ Advancing the state of the industry by enabling object visual modeling tool inte
 ii.
 
 Object = Sammy
+
 Class = shark
+
 Abstraction = swim(self)
+
 Encapsulation = definition of a shark
+
 Inheritance = a specific type of shark
 
 I selected each term based on the term's definition and how I designed the shark.py program.  For example, an object can be defined as an instance of a class.  This is the realized version of the class, where the class is manifested in the program.  That's why Sammy goes with the object.
