@@ -1,6 +1,6 @@
 # Executive Summary
 
-Lab7 Software Engineering consisted of practicing working with files and folders and exploring the impact of file/folder compression.  In addition, I defined the OOP (object-oriented programming) paradigm and practiced creating and diagramming software.  From this lab, I hope to learn how compressing a file affects the final document and the meaning of object-oriented programming.
+Lab7 Software Engineering consisted of practice working with files and folders and exploring the impact of file/folder compression.  In addition, I defined the OOP (object-oriented programming) paradigm and practiced creating and diagramming software.  From this lab, I hope to learn how compressing a file affects the final document and the meaning of object-oriented programming.
 
 # File Compression
 
@@ -32,6 +32,36 @@ Creating an object from the class 'blueprint' is called instantiation.  Essentia
 
 # Unified Modeling Language (UML)
 
-i.
+i. OMG, or Object Management Group, is an international, open membership, not-for-profit technology standards consortium founded in 1989.  OMG overseas the definition and maintenance of UML specifications.
+
+The OMG defines the purpose of the UML as:
+
+System Architects, software engineers, and software developers are provided with tools for analysis, design, and implementation of software-based systems and modeling business and similar processes.
+
+Advancing the state of the industry by enabling object visual modeling tool interoperability.  However, agreement of semantics and notations is required to facilitate the meaningful exchange of model information between tools.
 
 ii.
+
+Object = Sammy
+Class = shark
+Abstraction = swim(self)
+Encapsulation = definition of a shark
+Inheritance = a specific type of shark
+
+I selected each term based on the term's definition and how I designed the shark.py program.  For example, an object can be defined as an instance of a class.  This is the realized version of the class, where the class is manifested in the program.  That's why Sammy goes with the object.
+
+Class is known as a blueprint created by a programmer for an object.  This defines a set of attributes that will characterize any object instantiated from this class.  Based on this, I chose shark. 
+
+Abstraction is the concept of object-orietented programming that "shows" only essential attributes and "hides" unnecessary information.  The primary purpose of abstraction is to hide unneccessary details from the users.  From this, I selected swim(self).
+
+Encapsulation describes the idea of bundling data and methods that work on that data within one unit, e.g., a class in Java.  This description appears to be the definition of a shark.
+
+Inheritance is a mechanism where you can derive a class from another class for a hierarchy of classes that share attributes and methods.  Following this explanation, a specific type of shark fits in.
+
+# SharkClass
+
+![SharkClass](https://user-images.githubusercontent.com/90066230/144747269-3c296748-78c0-42dc-a1be-40bf2a7c21e3.jpeg)
+
+# Conclusion
+
+In review, Lab7 Software Engineering consisted of practice working with files and folders and exploring the impact of file/folder compression.  In addition, I defined the OOP (object-oriented programming) paradigm and practiced creating and diagramming software.  My takeaways from Lab7 are that compressing a file ultimately makes the file size smaller and thus making upload times much faster.  Futhermore, object-oriented programming is an art form or design philosophy about creating larger, reusable "objects" in computer code.  Everthing in OOP is grouped as self-sustainable "objects."  Hence, you gain reusability utilizing four main object-oriented programming concepts.  Therefore, all people using that computer code may benefit from its design.
