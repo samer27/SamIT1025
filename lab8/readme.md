@@ -81,11 +81,6 @@ The Family Educational Rights and Privacy Act (FERPA) is a US law that protects 
 
 The Health Insurance Portability and Accountability Act of 1996 (HIPAA) singles explicitly out records related to health care as a particular class of personally identifiable information.  This law gives patients specific rights to control their medical records, requires health care providers and others who maintain this information to get explicit permission to share it, and imposes penalties on the institutions that breach this trust. Since much of this information is now shared via electronic medical records, the protection of those systems becomes paramount.
 
-Conclusion:
+# Conclusion:
 
-In Lab8 Data Analytics and Ethical and Legal Implications, I studied describing various database models and practiced querying a database with SQL (structured query language.) Also, I recognized the critical ethical and legal implications of information systems.  What I’ve accomplished in this lab is discovering why a code of ethics is required to practice in IT.  In addition, I now know the four big V’s of big data.   
-
-
-
-
-
+In Lab8 Data Analytics and Ethical and Legal Implications, I studied describing various database models and practiced querying a database with SQL (structured query language.) Also, I recognized the critical ethical and legal implications of information systems.  What I’ve accomplished in this lab is discovering why a code of ethics is required to practice in IT.  In addition, I now know the four big V’s of big data.
