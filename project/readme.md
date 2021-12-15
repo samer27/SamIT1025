@@ -1,10 +1,13 @@
 # Executive Summary
 
-Blockchain is a peer-to-peer network that provides an open, distributed record of transactions between two parties. A “peer-to-peer” network is one where there is no server between the two nodes trying to communicate. Essentially, each node acts as a server and a client.  
+Blockchain is a peer-to-peer network that provides an open, distributed record of transactions between two parties. A “peer-to-peer” network is one where there is no server between the two nodes trying to communicate. Essentially, each node acts as a server and a client.
+
 Supporters see blockchain as a tool to simplify all types of transactions: payments, contracts, etc.  Blockchain is considered a foundational technology, potentially creating new economic and social systems foundations. However, there are numerous concerns about Blockchain and its adoption. Consider the following:
 
-Speed of adoption. Initially, there is a great deal of enthusiasm by a small group. However, adoption on a larger scale can take a significant number of years, even decades, for a worldwide acceptance of a new business method.  
+Speed of adoption. Initially, there is a great deal of enthusiasm by a small group. However, adoption on a larger scale can take a significant number of years, even decades, for a worldwide acceptance of a new business method.
+
 Governance. The banking sector, both in individual countries (U. S. Federal Reserve System) and the world at large (the International Monetary Fund), controls financial transactions. One purpose of these organizations is to avoid banking and economic systems collapse. Blockchain will result in the governance of financial transactions shifting away from these government-controlled institutions.
+
 Smart contracts. The smart contract will re-shape how businesses interact. For example, it is possible for blockchain to automatically send payment to a vendor the instant the product is delivered to the customer. Such “self-executing” contracts are already taking place in banking and venture capital funding.
 
 Code Implementation
